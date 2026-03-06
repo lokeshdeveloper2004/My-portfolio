@@ -20,7 +20,7 @@ const Work = () => {
       title: "MY PORTFOLIO",
       desc: "A responsive personal portfolio website to showcase my skills, projects, and contact information.",
       img: "./lokiportfolioimg.png",
-      live: "my-portfolio-weld-mu-16.vercel.app",
+      live: "https://my-portfolio-weld-mu-16.vercel.app",
       git: "https://github.com/lokeshdeveloper2004/My-portfolio.git",
       tech: ["React", "Node.js", "HTML", "CSS","JavaScript","Bootstrap"],
     },
@@ -28,7 +28,7 @@ const Work = () => {
       title: " TOMATO - Loki Foods World ",
       desc: "Loki Foods World is a Zomato-inspired food ordering web application built using React.js. It allows users to explore restaurants and view menus, showcasing my frontend coding skills.",
       img: "./imgtomato.png",
-      live: "loki-foods-sfb7.vercel.app",
+      live: "https://loki-foods-sfb7.vercel.app",
       git: "https://github.com/lokeshdeveloper2004/Loki-foods.git",
       tech: ["React", "HTML", "CSS","JavaScript","Bootstrap"],
     },
@@ -41,7 +41,7 @@ const Work = () => {
       tech: ["HTML", "CSS", "JavaScript", "Bootstrap"],
     },
     /* {
-    
+
       title: "Expense Tracker",
       desc: "Expense Tracker — Smart MERN app for managing income & expenses with charts and dashboards for financial insights.",
       img: "./expense.png",

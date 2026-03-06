@@ -19,6 +19,7 @@ const categories = [
       { name: "React", level: 70, icon: "⚛️" },
       { name: "HTML", level: 95, icon: "🌐" },
       { name: "CSS", level: 90, icon: "🎨" },
+      { name: "Bootstrap", level: 80, icon: "🅱️" },
       /* { name: "Tailwind", level: 88, icon: "💨" } */,],
     //   { name: "MERN Stack", level: 85, icon: "📚" },
     //   { name: "Next Js", level: 85, icon: "📚" },
