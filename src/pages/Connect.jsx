@@ -45,7 +45,7 @@ const Connect = () => {
     {
       icon: <Github className="w-5 h-5" />,
       label: "GitHub",
-      link: "https://github.com/Aadarsh-max",
+      link: "https://github.com/lokeshdeveloper2004",
     },
     {
       icon: <Linkedin className="w-5 h-5" />,
